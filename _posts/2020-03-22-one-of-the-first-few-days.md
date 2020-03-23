@@ -1,5 +1,14 @@
 ---
 published: false
+layout: post
+title: Believe in the workflow
+date: '2020-03-22 15:01:35 +0600'
+image: /assets/img/02.jpg
+tags:
+  - switzerland
+  - heels
+  - chair
+  - blog
 ---
 
 It's not actually the first day of my quarantine life. I have been locked down inside my house since yesterday. But still, I will follow the sunday-being-the-first-day-of-week thing.
