@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author:
   name: chiharu and pattho
-  image: '/assets/img/01.jpg'
+  image: '/assets/img/index_cover.jpg'
   job: Independent Product Designer
   bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
   email: forexample@website.com
