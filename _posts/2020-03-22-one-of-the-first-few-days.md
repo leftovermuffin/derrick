@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-title: Believe in the workflow
+title: One Of The First Few Days
 date: '2020-03-22 15:01:35 +0600'
 image: /assets/img/02.jpg
 tags:
