@@ -4,6 +4,7 @@ layout: post
 title: One Of The First Few Days
 date: '2020-03-22 15:01:35 +0600'
 author: jamjam
+image: '/assets/img/first-few-days.jpg'
 ---
 
 It's not actually the first day of my quarantine life. I have been locked down inside my house since yesterday. But still, I will follow the sunday-being-the-first-day-of-week thing.
