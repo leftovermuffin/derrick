@@ -40,9 +40,10 @@
 }
 
 .post__content {
-  text-align: justify;
+
   margin-bottom: 45px;
   p {
+    text-align: justify;
     font-size: 18px;
     line-height: 32px;
     color: $gray;
